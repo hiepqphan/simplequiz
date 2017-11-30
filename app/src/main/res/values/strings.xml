@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SampleQuiz</string>
+
+    <!-- Text -->
+    <string name="warning_text">Are you sure about this?</string>
+    <string name="question1">1. You can believe in yourself!</string>
+    <string name="question2">2. You can do it!</string>
+    <string name="question3">3. You need to get out!</string>
+    <string name="question4">4. You\'re going to be awesome!</string>
+    <string name="max_cheat_exceeded">Oops! No more cheating.</string>
+
+    <!-- Button -->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Back</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="show_answer_button">Cheat</string>
+
+    <!-- Toast -->
+    <string name="after_cheat_toast">You should believe in yourself</string>
+    <string name="true_toast">Correct!</string>
+    <string name="false_toast">Incorrect!</string>
+</resources>
